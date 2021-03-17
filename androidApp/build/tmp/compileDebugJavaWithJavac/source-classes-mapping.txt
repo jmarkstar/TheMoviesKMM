@@ -1,0 +1,2 @@
+com/jmarkstar/movies/androidApp/BuildConfig.java
+ com.jmarkstar.movies.androidApp.BuildConfig
