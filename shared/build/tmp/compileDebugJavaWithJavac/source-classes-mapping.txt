@@ -1,2 +1,0 @@
-com/jmarkstar/movies/shared/BuildConfig.java
- com.jmarkstar.movies.shared.BuildConfig
